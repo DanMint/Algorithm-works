@@ -1,21 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-algo.hw@gmail.com 
-Meet
-Hangouts
-
-1 of 3
-HW 3
-
-Zavio <dannymints@gmail.com>
-Attachments
-Wed, May 19, 5:39 AM (7 days ago)
-to algo.hw
-
-Hello sir im sending you my hw3 incase i did something wrong with the git.
-2 Attachments
 #include <algorithm>
 #include <iostream>
 #include <random>
